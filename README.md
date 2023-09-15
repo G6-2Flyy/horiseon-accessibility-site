@@ -26,7 +26,7 @@ Follow the steps below to use or test the website:
 2. Visit the address listed below.
 3. Click a link on the navigation bar to view additional information. 
 
-Site:
+Site: https://g6-2flyy.github.io/horiseon-accessibility-site/
     
 ![alt photo of website](./assets/images/horiseon-site-screenshot.png)
     
